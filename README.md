@@ -6,4 +6,13 @@ SpellNightmare is programmed in JavaScript and SpellSpike, making everything lig
 
 DOWNLOAD:
 
-![alt text](https://github.com/NervousGroove/SpellMax/blob/main/SpellMax.png)
+-----------------------------------
+![alt text](https://github.com/NervousGroove/SpellNightmare/raw/main/imgs/img1.png)
+-----------------------------------
+![alt text](https://github.com/NervousGroove/SpellNightmare/raw/main/imgs/img2.png)
+-----------------------------------
+![alt text](https://github.com/NervousGroove/SpellNightmare/raw/main/imgs/img3.png)
+-----------------------------------
+![alt text](https://github.com/NervousGroove/SpellNightmare/raw/main/imgs/img4.png)
+-----------------------------------
+![alt text](https://github.com/NervousGroove/SpellNightmare/raw/main/imgs/img5.png)
