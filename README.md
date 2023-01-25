@@ -5,3 +5,5 @@ SpellNightmare is a lightweight, secure, private, fast, and free operating syste
 SpellNightmare is programmed in JavaScript and SpellSpike, making everything lighter, cheaper, and safer.
 
 DOWNLOAD:
+
+![alt text](https://github.com/NervousGroove/SpellMax/blob/main/SpellMax.png)
